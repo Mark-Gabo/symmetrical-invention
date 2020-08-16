@@ -7,4 +7,8 @@ $ apt upgrade
 
 $ pip install lolcat
 
-$ git clone
+$ git clone https://github.com/Mark-Gabo/symmetrical-invention.git
+
+$ cd symmetrical-invention
+
+$ bash robot.sh
